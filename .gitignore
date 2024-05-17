@@ -48,6 +48,11 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
 
 # Builds
 Build/*
@@ -72,3 +77,26 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Other files
+*.sln
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.pdb
+*.opendb
+*.log
+*.obj
+*.o
+*.so
+*.dylib
+*.class
+*.jar
+*.dll
+*.exe
+*.pyc
+*.pyo
+*.tmp
+*.temp
